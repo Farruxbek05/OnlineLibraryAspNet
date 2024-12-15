@@ -1,0 +1,6 @@
+@OnlineLibraryAspNet_HostAddress = http://localhost:5169
+
+GET {{OnlineLibraryAspNet_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
